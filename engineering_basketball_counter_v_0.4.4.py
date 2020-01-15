@@ -1,11 +1,3 @@
-# Information:
-# Name: engineering_basketball_counter.py
-# Author: Oliver Archer
-# Version: 0.4.5 - Added LED power on and off
-# Date: 14:45 - 19/12/19
-# Information: Coded for the BBC micro:bit for the engineering GCSE.
-# The styling follows the PEP8 styleguide
-
 # Imports everything from the microbit and time library
 from microbit import *
 import time
